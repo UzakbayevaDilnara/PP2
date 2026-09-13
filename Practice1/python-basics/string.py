@@ -12,3 +12,4 @@ print(a[1])
 #5 example
 a = "Hello, World!"
 print(len(a))
+
