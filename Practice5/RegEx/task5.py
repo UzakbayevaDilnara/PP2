@@ -1,4 +1,4 @@
 import re
 
-x = re.findall("Portugal", txt)
+x = re.findall("ai", txt)
 print(x)
