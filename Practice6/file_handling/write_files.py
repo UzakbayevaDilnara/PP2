@@ -12,6 +12,5 @@ with open("demofile.txt", "w") as f:
 with open("demofile.txt") as f:
   print(f.read())
 
-#3
-f = open("myfile.txt", "x")
+
 
