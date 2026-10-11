@@ -1,6 +1,5 @@
 #1
 names = ["Ali", "Dana", "Arman"]
-
 print(names)
 print(names[0])
 
