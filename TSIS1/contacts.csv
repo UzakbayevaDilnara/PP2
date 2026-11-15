@@ -1,1 +1,4 @@
-
+name,phone,type,email,birthday,group
+Ali,mobile,+77011112233,ali@example.com,1995-04-12,Family
+Bob,work,+77022223344,bob@gmail.com,1990-09-30,Work
+Zero,home,+77033334455,zero@gmail.com,1988-01-15,Friend
