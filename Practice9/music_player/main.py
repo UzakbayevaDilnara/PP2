@@ -8,8 +8,7 @@ def main():
     pygame.display.set_caption("Music Player")
     clock = pygame.time.Clock()
 
-    player = MusicPlayer("music")
-
+    player = MusicPlayer("music_player/music")
     running = True
     while running:
         for event in pygame.event.get():
