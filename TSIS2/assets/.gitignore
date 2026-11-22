@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+canvas_*.png
+
